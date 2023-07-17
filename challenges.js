@@ -19,7 +19,9 @@ twoSum([8,7], 16) //=> 'No Sum'
 -----------------------------------------------------------------------------*/
 // Your solution for 01- here:
 
-
+function twoSum(nummArr, target) {
+  let idxOne, idxTwo;
+}
 
 /*-----------------------------------------------------------------------------
 Challenge: 02 - compareTriplets
